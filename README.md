@@ -1,6 +1,6 @@
 # HORISEON : CODE REFACTOR 
 
-##main Aim
+## main Aim
 Refactoring of marketing agency code for accessibility
 
 ### What is done
