@@ -1,4 +1,4 @@
-# HORIOSON : CODE REFACTOR 
+# HORISEON : CODE REFACTOR 
 
 ##main Aim
 Refactoring of marketing agency code for accessibility
